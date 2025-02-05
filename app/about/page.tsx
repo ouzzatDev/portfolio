@@ -117,7 +117,7 @@ const Page = () => {
 
               <div className="z-10 relative">
                 <p className="text-lightest-slate/60 mb-4 leading-7">
-                  👋 Hello, I'm Younes Ouzzat, a Full Stack Web and Developer
+                  👋 Hello, {`I'm`} Younes Ouzzat, a Full Stack Web and Developer
                   with a passion for transforming innovative ideas into
                   functional, engaging digital solutions. Since beginning my
                   coding journey in 2018, I have specialized in web development,

@@ -20,7 +20,7 @@ const Navbar = () => {
 
   useEffect(() => {
     if (isActive) setIsActive(false);
-  }, [pathname]);
+  }, [isActive, pathname]);
 
   return (
     <nav
