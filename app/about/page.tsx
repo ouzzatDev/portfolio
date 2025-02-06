@@ -138,10 +138,10 @@ const Page = () => {
               </h2>
               <div className="mt-6">
                 <p className="text-lightest-slate/60 text-base mb-1 font-normal">
-                  June 2024 - Present
+                  June 2024 - January 2025
                 </p>
                 <h3 className={`${RobotoMono.className} text-green text-base`}>
-                  Full Stack web developer at SEOCOM - MARRAKECH
+                  Full Stack web developer at Smart Influencer - MARRAKECH
                 </h3>
                 <p className="text-lightest-slate/60 font-normal text-[15px] mt-3">
                   🌐 Currently, I continue to work with Laravel and Next.js,

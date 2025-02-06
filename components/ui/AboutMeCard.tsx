@@ -28,7 +28,7 @@ const AboutMeCard = () => {
 
         <a
           className={`${RobotoMono.className} btn btn-white bg-gradient flex items-center justify-center gap-3 mt-8`}
-          href="/assets/ouzzat_younes_resume.pdf"
+          href="/assets/ouzzat_younes.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
