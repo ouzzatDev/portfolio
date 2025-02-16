@@ -25,6 +25,7 @@ import ellamarket from "/public/assets/imgs/projects/ellamarket.png";
 import rgp from "/public/assets/imgs/projects/rgp.png";
 import onzosyndic from "/public/assets/imgs/projects/onzosyndic.png";
 import citytiles from "/public/assets/imgs/projects/citytiles.png";
+import bull_gym from "/public/assets/imgs/projects/bull_gym.png";
 
 export {
   bg1,
@@ -54,4 +55,5 @@ export {
   ellamarket,
   onzosyndic,
   citytiles,
+  bull_gym,
 };
