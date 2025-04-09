@@ -39,7 +39,7 @@ const Page = () => {
               <Image src={bg1} alt="bg1" className="bg-card" />
 
               <Link
-                href="https://jacarandacar.fr/"
+                href="https://jacarandacar-next-js.vercel.app/"
                 target="_blank"
                 className="relative z-10"
               >
