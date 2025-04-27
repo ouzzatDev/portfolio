@@ -19,8 +19,10 @@ const Navbar = () => {
   };
 
   useEffect(() => {
-    if (isActive) setIsActive(false);
-  }, [isActive, pathname]);
+    setIsActive(false);
+  }, [pathname]);
+
+  console.log(isActive)
 
   return (
     <nav
