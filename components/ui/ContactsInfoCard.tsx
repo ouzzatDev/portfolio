@@ -17,7 +17,7 @@ const ContactsInfoCard = () => {
           <div className="space-y-[3px] z-10">
             <p className="text-lightest-slate text-sm">Email address</p>
             <p className="text-lightest-slate/60 text-sm">
-              yonneszat@gmail.com
+              ouzzatdev@gmail.com
             </p>
           </div>
         </li>
@@ -28,7 +28,7 @@ const ContactsInfoCard = () => {
 
           <div className="space-y-[3px] z-10">
             <p className="text-lightest-slate text-sm">Phone number</p>
-            <p className="text-lightest-slate/60 text-sm">+212 706069297</p>
+            <p className="text-lightest-slate/60 text-sm">+212 706067297</p>
           </div>
         </li>
       </ul>
