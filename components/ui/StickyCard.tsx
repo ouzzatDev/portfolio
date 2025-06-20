@@ -37,7 +37,7 @@ const StickyCard = () => {
             <li className="w-14 h-14 z-10">
               <Link
                 target="_blank"
-                href="https://www.linkedin.com/in/younes-ouzzat-57502913a/"
+                href="https://www.linkedin.com/in/ouzzat/"
                 className="font-medium rounded-full text-base w-full h-full btn-white bg-gradient flex justify-center items-center"
               >
                 <FaLinkedinIn className="text-xl" />
