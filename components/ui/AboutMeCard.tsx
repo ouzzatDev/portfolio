@@ -20,10 +20,10 @@ const AboutMeCard = () => {
 
       <div className="z-10">
         <p className="text-green mb-2 text-sm">👋 Hi, my name is</p>
-        <h1 className="text-gradient text-3xl font-bold mb-[.5px]">Ouzzat</h1>
-        <h1 className="text-gradient text-3xl font-bold">Younes.</h1>
+        <h1 className="text-gradient text-3xl font-bold mb-[.5px]">Younes</h1>
+        <h1 className="text-gradient text-3xl font-bold">Ouzzat.</h1>
         <p className="text-lightest-slate/60 mt-4 text-sm">
-          Passionate Full Stack Web Developer.
+          Passionate Full Stack Developer.
         </p>
 
         <a
