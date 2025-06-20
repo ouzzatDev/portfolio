@@ -1,4 +1,4 @@
-import { bg1, computer, icon1, person4 } from "@/utils/assets";
+import { bg1, computer, icon1 } from "@/utils/assets";
 import Image from "next/image";
 import Link from "next/link";
 
