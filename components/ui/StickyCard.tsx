@@ -46,7 +46,7 @@ const StickyCard = () => {
             <li className="w-14 h-14 z-10">
               <Link
                 target="_blank"
-                href="https://github.com/younesouzzat"
+                href="https://github.com/ouzzatDev"
                 className="font-medium rounded-full text-base w-full h-full btn-white bg-gradient flex justify-center items-center"
               >
                 <FaGithub className="text-xl" />

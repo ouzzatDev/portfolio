@@ -45,7 +45,7 @@ const SmallWorks = () => {
               <ul className="flex justify-end text-lightest-slate/50 gap-4 mt-5">
                 <li>
                   <Link
-                    href="https://github.com/younesouzzat/redux-toolkit-shopping-cart"
+                    href="https://github.com/ouzzatDev/redux-toolkit-shopping-cart"
                     legacyBehavior
                   >
                     <a target="_blank" rel="noreferrer">
@@ -89,7 +89,7 @@ const SmallWorks = () => {
               <ul className="flex justify-end text-lightest-slate/50 gap-4 mt-5">
                 <li>
                   <Link
-                    href="https://github.com/younesouzzat/weather-app"
+                    href="https://github.com/ouzzatDev/weather-app"
                     legacyBehavior
                   >
                     <a target="_blank" rel="noreferrer">
@@ -139,7 +139,7 @@ const SmallWorks = () => {
                   <ul className="flex justify-end text-lightest-slate/50 gap-4 mt-5">
                     <li>
                       <Link
-                        href="https://github.com/younesouzzat/wizard-form"
+                        href="https://github.com/ouzzatDev/wizard-form"
                         legacyBehavior
                       >
                         <a target="_blank" rel="noreferrer">
@@ -184,7 +184,7 @@ const SmallWorks = () => {
                   <ul className="flex justify-end text-lightest-slate/50 gap-4 mt-5">
                     <li>
                       <Link
-                        href="https://github.com/younesouzzat/portfolio"
+                        href="https://github.com/ouzzatDev/portfolio"
                         legacyBehavior
                       >
                         <a target="_blank" rel="noreferrer">

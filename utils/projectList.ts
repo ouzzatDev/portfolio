@@ -167,7 +167,7 @@ export const projects = [
     bg: bg1,
     technologies: ["Next.js", "Tailwindcss", "Shadcn"],
     websiteUrl: "https://bull-gym-seven.vercel.app/",
-    githubUrl: "https://github.com/younesouzzat/bull_gym",
+    githubUrl: "https://github.com/ouzzatDev/bull_gym",
   },
   {
     title: "Vaccum",
@@ -175,7 +175,7 @@ export const projects = [
     bg: bg1,
     technologies: ["Next.js", "Tailwindcss", "Shadcn"],
     websiteUrl: "https://vaccum-alpha.vercel.app/",
-    githubUrl: "https://github.com/younesouzzat/vaccum",
+    githubUrl: "https://github.com/ouzzatDev/vaccum",
   },
   {
     title: "MJ Cleaning Services",
