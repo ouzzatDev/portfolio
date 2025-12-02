@@ -25,9 +25,17 @@ import {
   mbla_association,
   lmansion,
   moov_money,
+  bigstorenext
 } from "@/utils/assets";
 
 export const projects = [
+  {
+    title: "Bigstore ecommerce",
+    image: bigstorenext,
+    bg: bg1,
+    technologies: ["Laravel", "Next.js", "Shadcn", "Redis"],
+    websiteUrl: "https://big-store-ivory.vercel.app/",
+  },
   {
     title: "Jacaranda Car Rental Cars",
     image: jacanradacar,

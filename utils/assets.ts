@@ -9,6 +9,7 @@ import hand from "/public/assets/imgs/hand.svg";
 import computer from "/public/assets/imgs/computer.svg";
 import ouzzatdev from "/public/assets/imgs/ouzzatdev.jpg";
 
+import bigstorenext from "/public/assets/imgs/projects/bigstorenext.webp";
 import vaccumProduct from "/public/assets/imgs/projects/vaccum.webp";
 import jacanradacar from "/public/assets/imgs/projects/jacanradacar.webp";
 import mjcleanerservices from "/public/assets/imgs/projects/mjcleanerservices.webp";
@@ -50,6 +51,7 @@ export {
   ouzzatdev,
   rgp,
   croams,
+  bigstorenext,
   syndicconnect,
   groupearraid,
   mremballage,
